@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Devops Engineer",
+    "organisation": "Redient Security",
+    "startDate": "Apr, 2023",
+    "endDate": "Jun,2023",
+    "experiences": ["Hands on Devops Tools"],
+    "imageSrc": "history/redient_security_logo.jpg"
+  },
+  {
+    "role": "Full stack Developer",
+    "organisation": "Codsoft",
+    "startDate": "Aug, 2023",
+    "endDate": "Sep, 2023",
+    "experiences": ["Worked on Windows 11", "Designed the Frontend-skills"],
+    "imageSrc": "history/logo-png-codsoft.avif"
+  },
+  {
+    "role": "Frontend Developer",
+    "organisation": "Compozent",
+    "startDate": "Sep, 2020",
+    "endDate": "Oct, 2020",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/compozent.png"
+  }
+]

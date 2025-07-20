@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Rent-Property-App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "HTML","Express", "Node"],
+    "demo": "https://github.com/iamashwinikoli/rent-a-property-spa",
+    "source": "https://github.com/iamashwinikoli/rent-a-property-spa"
+  },
+  {
+    "title": "Bulb-ON-and_Off",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages and by building an app.",
+    "skills": ["React", "Express", "CSS", "HTML"],
+    "demo": "https://github.com/iamashwinikoli/bulb-on-and-off",
+    "source": "https://github.com/iamashwinikoli/bulb-on-and-off"
+  },
+  {
+    "title": "Google Homepage Clone",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://github.com/iamashwinikoli/google-homepage",
+    "source": "https://github.com/iamashwinikoli/google-homepage"
+  }
+]
